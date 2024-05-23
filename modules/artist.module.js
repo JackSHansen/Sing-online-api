@@ -1,5 +1,5 @@
 import { log } from 'console';
-import { supabase } from '../config/supabase.config.js';
+import { supabase } from "../config/supabase.config.js";
 
 export default class artistModel {
     static async getAllArtists() {
