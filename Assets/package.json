@@ -3,5 +3,27 @@
     "@supabase/supabase-js": "^2.43.4",
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
-  }
+  },
+  "name": "assets",
+  "version": "1.0.0",
+  "main": "index_express.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackSHansen/Sing-online-api.git"
+  },
+  "keywords": [
+    "co"
+  ],
+  "author": "Jack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackSHansen/Sing-online-api/issues"
+  },
+  "homepage": "https://github.com/JackSHansen/Sing-online-api#readme",
+  "description": ""
 }
